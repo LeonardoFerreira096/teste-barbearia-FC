@@ -1,4 +1,4 @@
-# Barbearia — Aula 02 (Docker Compose e projeto fullstack)
+# Barbearia (Docker Compose e projeto fullstack)
 
 Aplicação fullstack: React (Vite) consumindo uma API Node/Express, com os dados
 em um Postgres rodando em container.
